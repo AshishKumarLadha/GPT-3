@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/GPT-3/static/css/main.a2392a2c.chunk.css",
+    "main.js": "/GPT-3/static/js/main.08e53e87.chunk.js",
+    "main.js.map": "/GPT-3/static/js/main.08e53e87.chunk.js.map",
+    "runtime-main.js": "/GPT-3/static/js/runtime-main.0564e71c.js",
+    "runtime-main.js.map": "/GPT-3/static/js/runtime-main.0564e71c.js.map",
+    "static/js/2.49a1cbfb.chunk.js": "/GPT-3/static/js/2.49a1cbfb.chunk.js",
+    "static/js/2.49a1cbfb.chunk.js.map": "/GPT-3/static/js/2.49a1cbfb.chunk.js.map",
+    "static/js/3.db27e962.chunk.js": "/GPT-3/static/js/3.db27e962.chunk.js",
+    "static/js/3.db27e962.chunk.js.map": "/GPT-3/static/js/3.db27e962.chunk.js.map",
+    "index.html": "/GPT-3/index.html",
+    "static/css/main.a2392a2c.chunk.css.map": "/GPT-3/static/css/main.a2392a2c.chunk.css.map",
+    "static/js/2.49a1cbfb.chunk.js.LICENSE.txt": "/GPT-3/static/js/2.49a1cbfb.chunk.js.LICENSE.txt",
+    "static/media/ai.aa60586b.png": "/GPT-3/static/media/ai.aa60586b.png",
+    "static/media/blog01.cefc0932.png": "/GPT-3/static/media/blog01.cefc0932.png",
+    "static/media/blog02.ab0eb367.png": "/GPT-3/static/media/blog02.ab0eb367.png",
+    "static/media/blog03.d9223238.png": "/GPT-3/static/media/blog03.d9223238.png",
+    "static/media/blog04.742c1357.png": "/GPT-3/static/media/blog04.742c1357.png",
+    "static/media/blog05.bfaa1c1e.png": "/GPT-3/static/media/blog05.bfaa1c1e.png",
+    "static/media/logo.5114679f.svg": "/GPT-3/static/media/logo.5114679f.svg",
+    "static/media/logo.6ce24c58.svg": "/GPT-3/static/media/logo.6ce24c58.svg",
+    "static/media/people.5cd2d6fb.png": "/GPT-3/static/media/people.5cd2d6fb.png",
+    "static/media/possibility.525f13b6.png": "/GPT-3/static/media/possibility.525f13b6.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0564e71c.js",
+    "static/js/2.49a1cbfb.chunk.js",
+    "static/css/main.a2392a2c.chunk.css",
+    "static/js/main.08e53e87.chunk.js"
+  ]
+}
